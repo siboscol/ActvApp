@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Actv App</string>
+
+    <string-array name="function_array">
+        <item>Linee</item>
+        <item>Fermate</item>
+        <item>Mappa</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_dbsearch">DB search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_action_bar_main">ActionBarMain</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_listline_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_control_lines">ControlLines</string>
+    <string name="title_activity_detail_stop">Detail Stop Selected</string>
+    <string name="title_activity_list_detail_stops">ListDetailStopsActivity</string>
+
+    <!-- Menu items -->
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- NetworkActivity -->
+    <string name="updated">Last updated:</string>
+    <string name="lost_connection">Lost connection.</string>
+    <string name="wifi_connected">Wi-Fi reconnected.</string>
+    <string name="connection_error">Unable to load content. Check your network connection.</string>
+    <string name="xml_error">Error parsing XML.</string>
+    <string name="no_stops">La linea non passa per la fermata nell\'orario selezionato. Riprovare cambiando orario.</string>
+    <string name="search_hint">Ricerca fermata</string>
+    <string name="not_found">La fermata ricercata non è stata trovata. Riprovare o selezionare una fermata dall\'elenco delle fermate.</string>
+    <string name="no_run">Non c\'è una corsa della linea selezionata nell\'arco di 10 minuti, provare a cambiare orario o a ricercare una fermata</string>
+    <string name="change_time">cambio orario</string>
+    <string name="sync_time">sync timetable</string>
+    <string name="imposta">Imposta</string>
+    <string name="annulla">Annulla</string>
+
+</resources>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>1</Nome_linea>
+		<Codice_linea_interno>1001</Codice_linea_interno>
+		<Descrizione_linea>P.LE ROMA - LIDO   VIA CANAL GRANDE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>1</Codice_libero>
+		<Codice_libero2>003_0002000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>11</Nome_linea>
+		<Codice_linea_interno>1002</Codice_linea_interno>
+		<Descrizione_linea>N/T: ALBERONI - S . M. MARE + M/B: PELLESTRINA - CHIOGGIA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>11</Codice_libero>
+		<Codice_libero2>003_0015000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>13</Nome_linea>
+		<Codice_linea_interno>1003</Codice_linea_interno>
+		<Descrizione_linea>F.TE NOVE - MURANO - S.ERASMO - TREPORTI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>13</Codice_libero>
+		<Codice_libero2>003_0017000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>15</Nome_linea>
+		<Codice_linea_interno>1004</Codice_linea_interno>
+		<Descrizione_linea>P.TA SABBIONI - PIETA'</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>15</Codice_libero>
+		<Codice_libero2>003_0019000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>16</Nome_linea>
+		<Codice_linea_interno>1005</Codice_linea_interno>
+		<Descrizione_linea>FUSINA - ZATTERE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>16</Codice_libero>
+		<Codice_libero2>003_0020000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>17</Nome_linea>
+		<Codice_linea_interno>1006</Codice_linea_interno>
+		<Descrizione_linea>N/T: TRONCHETTO - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>17</Codice_libero>
+		<Codice_libero2>003_0021000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>18</Nome_linea>
+		<Codice_linea_interno>1007</Codice_linea_interno>
+		<Descrizione_linea>MURANO - S. ERASMO - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>18</Codice_libero>
+		<Codice_libero2>003_0022000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>20</Nome_linea>
+		<Codice_linea_interno>1008</Codice_linea_interno>
+		<Descrizione_linea>S.ZACCARIA - S.SERVOLO - S.LAZZARO - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>20</Codice_libero>
+		<Codice_libero2>003_0024000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>24</Nome_linea>
+		<Codice_linea_interno>1009</Codice_linea_interno>
+		<Descrizione_linea>24</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>24</Codice_libero>
+		<Codice_libero2>003_0027000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>21</Nome_linea>
+		<Codice_linea_interno>1010</Codice_linea_interno>
+		<Descrizione_linea>SAN GIULIANO - OSPEDALE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>21</Codice_libero>
+		<Codice_libero2>003_0025000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>10</Nome_linea>
+		<Codice_linea_interno>5231</Codice_linea_interno>
+		<Descrizione_linea>LIDO - S.MARCO - (ZATTERE)</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>10</Codice_libero>
+		<Codice_libero2>003_0014000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>31</Nome_linea>
+		<Codice_linea_interno>1012</Codice_linea_interno>
+		<Descrizione_linea>PELLESTRINA - CHIOGGIA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>31</Codice_libero>
+		<Codice_libero2>003_0028000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>12</Nome_linea>
+		<Codice_linea_interno>5232</Codice_linea_interno>
+		<Descrizione_linea>P.TA SABBIONI-BURANO-F.TE NOVE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>12</Codice_libero>
+		<Codice_libero2>003_0016000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>4.1</Nome_linea>
+		<Codice_linea_interno>1014</Codice_linea_interno>
+		<Descrizione_linea>CIRCOLARE ANTIORARIA   MURANO - P.LE ROMA - GIUDECCA - MURANO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>4.1</Codice_libero>
+		<Codice_libero2>003_0043000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>4.2</Nome_linea>
+		<Codice_linea_interno>1015</Codice_linea_interno>
+		<Descrizione_linea>CIRCOLARE ORARIA   MURANO - GIUDECCA - P.LE ROMA - MURANO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>4.2</Codice_libero>
+		<Codice_libero2>003_0044000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>7</Nome_linea>
+		<Codice_linea_interno>1016</Codice_linea_interno>
+		<Descrizione_linea>DIRETTO S.ZACCARIA - MURANO - S.ZACCARIA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>7</Codice_libero>
+		<Codice_libero2>003_0006000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>5.1</Nome_linea>
+		<Codice_linea_interno>1017</Codice_linea_interno>
+		<Descrizione_linea>CIRCOLARE ANTIORARIA LIDO - F.TE NOVE - P.LE ROMA - S.ZACCARIA - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>5.1</Codice_libero>
+		<Codice_libero2>003_0045000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>5.2</Nome_linea>
+		<Codice_linea_interno>1018</Codice_linea_interno>
+		<Descrizione_linea>CIRCOLARE ORARIA LIDO - S.ZACCARIA - P.LE ROMA - F.TE NOVE - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>5.2</Codice_libero>
+		<Codice_libero2>003_0046000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>6</Nome_linea>
+		<Codice_linea_interno>1019</Codice_linea_interno>
+		<Descrizione_linea>DIRETTO P.LE ROMA - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>6</Codice_libero>
+		<Codice_libero2>003_0005000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>62</Nome_linea>
+		<Codice_linea_interno>1020</Codice_linea_interno>
+		<Descrizione_linea>DIRETTO LIDO - P.LE ROMA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>62</Codice_libero>
+		<Codice_libero2>003_0029000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AG</Nome_linea>
+		<Codice_linea_interno>AG</Codice_linea_interno>
+		<Descrizione_linea>Linea per turni aggiuntivi per eventi particolari</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AG</Codice_libero>
+		<Codice_libero2>003_0031000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>BICI</Nome_linea>
+		<Codice_linea_interno>1022</Codice_linea_interno>
+		<Descrizione_linea>LINEA BICINBARCA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>BICI</Codice_libero>
+		<Codice_libero2>003_0065000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>BLU</Nome_linea>
+		<Codice_linea_interno>1023</Codice_linea_interno>
+		<Descrizione_linea>P.LE ROMA - CASINO'</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>BLU</Codice_libero>
+		<Codice_libero2>003_0047000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>3</Nome_linea>
+		<Codice_linea_interno>1024</Codice_linea_interno>
+		<Descrizione_linea>DIRETTO P.LE ROMA - MURANO - P.LE ROMA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>3</Codice_libero>
+		<Codice_libero2>003_0004000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>LN</Nome_linea>
+		<Codice_linea_interno>1025</Codice_linea_interno>
+		<Descrizione_linea>LAGUNA NORD</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>LN</Codice_libero>
+		<Codice_libero2>003_0034000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>N</Nome_linea>
+		<Codice_linea_interno>1026</Codice_linea_interno>
+		<Descrizione_linea>NOTTURNO CANAL GRANDE + NOTTURNO LIDO - P.TA SABBIONI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>N</Codice_libero>
+		<Codice_libero2>003_0012000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>NLN</Nome_linea>
+		<Codice_linea_interno>1027</Codice_linea_interno>
+		<Descrizione_linea>NOTTURNO LAGUNA NORD</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>NLN</Codice_libero>
+		<Codice_libero2>003_0052000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>NMU</Nome_linea>
+		<Codice_linea_interno>1028</Codice_linea_interno>
+		<Descrizione_linea>NOTTURNO MURANO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>NMU</Codice_libero>
+		<Codice_libero2>003_0053000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>9</Nome_linea>
+		<Codice_linea_interno>1029</Codice_linea_interno>
+		<Descrizione_linea>BURANO - TORCELLO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>9</Codice_libero>
+		<Codice_libero2>003_0008000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>22</Nome_linea>
+		<Codice_linea_interno>5119</Codice_linea_interno>
+		<Descrizione_linea>P.TA SABBIONI - OSPEDALE - TRE ARCHI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>22</Codice_libero>
+		<Codice_libero2>003_0026000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>19</Nome_linea>
+		<Codice_linea_interno>5121</Codice_linea_interno>
+		<Descrizione_linea>LINEA CLODIA    CHIOGGIA - VENEZIA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>19</Codice_libero>
+		<Codice_libero2>003_0023000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>14</Nome_linea>
+		<Codice_linea_interno>5127</Codice_linea_interno>
+		<Descrizione_linea>VENEZIA-LIDO-P.TA SABBIONI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>14</Codice_libero>
+		<Codice_libero2>003_0018000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>14L</Nome_linea>
+		<Codice_linea_interno>5233</Codice_linea_interno>
+		<Descrizione_linea>LIDO-P.TA SABBIONI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>14L</Codice_libero>
+		<Codice_libero2>003_0041000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>4.1N</Nome_linea>
+		<Codice_linea_interno>5139</Codice_linea_interno>
+		<Descrizione_linea>41NA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>4.1N</Codice_libero>
+		<Codice_libero2>003_0057000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>5.1N</Nome_linea>
+		<Codice_linea_interno>5141</Codice_linea_interno>
+		<Descrizione_linea>51NA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>5.1N</Codice_libero>
+		<Codice_libero2>003_0058000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>5.2N</Nome_linea>
+		<Codice_linea_interno>5142</Codice_linea_interno>
+		<Descrizione_linea>52NA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>5.2N</Codice_libero>
+		<Codice_libero2>003_0059000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>82NA</Nome_linea>
+		<Codice_linea_interno>5143</Codice_linea_interno>
+		<Descrizione_linea>82NA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>82NA</Codice_libero>
+		<Codice_libero2>003_0060000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>LN N</Nome_linea>
+		<Codice_linea_interno>5144</Codice_linea_interno>
+		<Descrizione_linea>LNNA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>LNNA</Codice_libero>
+		<Codice_libero2>003_0066000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>BR</Nome_linea>
+		<Codice_linea_interno>5145</Codice_linea_interno>
+		<Descrizione_linea>Linea per turni in straordinario</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>BR</Codice_libero>
+		<Codice_libero2>003_0032000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AL B</Nome_linea>
+		<Codice_linea_interno>5151</Codice_linea_interno>
+		<Descrizione_linea>Alilaguna BLU</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AL B</Codice_libero>
+		<Codice_libero2>003_0062000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AL R</Nome_linea>
+		<Codice_linea_interno>5152</Codice_linea_interno>
+		<Descrizione_linea>Alilaguna ROSSA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AL R</Codice_libero>
+		<Codice_libero2>003_0064000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AL A</Nome_linea>
+		<Codice_linea_interno>5153</Codice_linea_interno>
+		<Descrizione_linea>Alilaguna ARANCIO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AL A</Codice_libero>
+		<Codice_libero2>003_0061000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AL G</Nome_linea>
+		<Codice_linea_interno>5154</Codice_linea_interno>
+		<Descrizione_linea>Alilaguna GIALLA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AL G</Codice_libero>
+		<Codice_libero2>003_0063000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>3 ex</Nome_linea>
+		<Codice_linea_interno>1011</Codice_linea_interno>
+		<Descrizione_linea>3EX</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>3ex</Codice_libero>
+		<Codice_libero2>003_0042000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>2</Nome_linea>
+		<Codice_linea_interno>5157</Codice_linea_interno>
+		<Descrizione_linea>S.ZACCARIA - GIUDECCA - P.LE ROMA - RIALTO - S.MARCO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>2</Codice_libero>
+		<Codice_libero2>003_0003000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>8</Nome_linea>
+		<Codice_linea_interno>5172</Codice_linea_interno>
+		<Descrizione_linea>GIUDECCA - LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>8</Codice_libero>
+		<Codice_libero2>003_0007000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>MC</Nome_linea>
+		<Codice_linea_interno>5178</Codice_linea_interno>
+		<Descrizione_linea>LINEA DIRETTA MOSTRA DEL CINEMA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>MC</Codice_libero>
+		<Codice_libero2>003_0050000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>2  N</Nome_linea>
+		<Codice_linea_interno>5185</Codice_linea_interno>
+		<Descrizione_linea>2 NATALE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>2  N</Codice_libero>
+		<Codice_libero2>003_0056000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>DP</Nome_linea>
+		<Codice_linea_interno>5187</Codice_linea_interno>
+		<Descrizione_linea>Linea per turni fittizzi di supporto</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>DP</Codice_libero>
+		<Codice_libero2>003_0033000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>A</Nome_linea>
+		<Codice_linea_interno>5190</Codice_linea_interno>
+		<Descrizione_linea>LINEA ARLECCHINO: TRONCHETTO - SAN MARCO - TRONCHETTO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>A</Codice_libero>
+		<Codice_libero2>003_0009000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>P</Nome_linea>
+		<Codice_linea_interno>5191</Codice_linea_interno>
+		<Descrizione_linea>LINEA PANTALONE: SAN MARCO - TRONCHETTO - SAN MARCO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>P</Codice_libero>
+		<Codice_libero2>003_0013000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>C</Nome_linea>
+		<Codice_linea_interno>5192</Codice_linea_interno>
+		<Descrizione_linea>LINEA COLOMBINA:  S.ZACCARIA - MURANO - P.LE ROMA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>C</Codice_libero>
+		<Codice_libero2>003_0011000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>LPL</Nome_linea>
+		<Codice_linea_interno>5200</Codice_linea_interno>
+		<Descrizione_linea>LINEA PARCO DELLA LAGUNA NORD</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>LPL</Codice_libero>
+		<Codice_libero2>003_0049000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>0</Nome_linea>
+		<Codice_linea_interno>5210</Codice_linea_interno>
+		<Descrizione_linea>CORSA A VUOTO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>0</Codice_libero>
+		<Codice_libero2>003_0001000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>EVO</Nome_linea>
+		<Codice_linea_interno>5211</Codice_linea_interno>
+		<Descrizione_linea>EVOLUZIONE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>EVO</Codice_libero>
+		<Codice_libero2>003_0048000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>PT</Nome_linea>
+		<Codice_linea_interno>PT</Codice_linea_interno>
+		<Descrizione_linea>PART - TIME</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>PT</Codice_libero>
+		<Codice_libero2>003_0040000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>MIL</Nome_linea>
+		<Codice_linea_interno>5259</Codice_linea_interno>
+		<Descrizione_linea>MIL</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>MIL</Codice_libero>
+		<Codice_libero2>003_0051000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>M1</Nome_linea>
+		<Codice_linea_interno>5260</Codice_linea_interno>
+		<Descrizione_linea>RISERVA TRONCHETTO-S.ZACCARIA-LIDO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>M1</Codice_libero>
+		<Codice_libero2>003_0035000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>M2</Nome_linea>
+		<Codice_linea_interno>5257</Codice_linea_interno>
+		<Descrizione_linea>RISERVA F.te NOVE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>M2</Codice_libero>
+		<Codice_libero2>003_0036000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>PO</Nome_linea>
+		<Codice_linea_interno>PO</Codice_linea_interno>
+		<Descrizione_linea>PO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>PO</Codice_libero>
+		<Codice_libero2>003_0067000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AD</Nome_linea>
+		<Codice_linea_interno>AD</Codice_linea_interno>
+		<Descrizione_linea>APPRONTAMENTO &amp; DIAGNOSTICA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AD</Codice_libero>
+		<Codice_libero2>003_0030000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>B</Nome_linea>
+		<Codice_linea_interno>5234</Codice_linea_interno>
+		<Descrizione_linea>LINEA BRIGHELLA: S.ZACCARIA - FERROVIA -TRONCHETTO - S.ZACCARIA</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>B</Codice_libero>
+		<Codice_libero2>003_0010000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>M3</Nome_linea>
+		<Codice_linea_interno>M3</Codice_linea_interno>
+		<Descrizione_linea>PERSONALE MACCHINA COSTIERO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>M3</Codice_libero>
+		<Codice_libero2>003_0037000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>PP</Nome_linea>
+		<Codice_linea_interno>PP</Codice_linea_interno>
+		<Descrizione_linea>PERSONALE PROSCIUGAMENTI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>PP</Codice_libero>
+		<Codice_libero2>003_0038000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>PR</Nome_linea>
+		<Codice_linea_interno>PR</Codice_linea_interno>
+		<Descrizione_linea>PERSONALE RIFORNIMENTO COMBUSTIBILI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>PR</Codice_libero>
+		<Codice_libero2>003_0039000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>VA</Nome_linea>
+		<Codice_linea_interno>5236</Codice_linea_interno>
+		<Descrizione_linea>LINEA VAPORETTO DELL'ARTE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>VA</Codice_libero>
+		<Codice_libero2>003_0054000</Codice_libero2>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>CALC</Nome_linea>
+		<Codice_linea_interno>CALC</Codice_linea_interno>
+		<Descrizione_linea>Linea per sfollamento CALCIO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>CALC</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>NOL</Nome_linea>
+		<Codice_linea_interno>NOL</Codice_linea_interno>
+		<Descrizione_linea>LINEA FITTIZIA per NOLEGGI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>NOL</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>SEVA</Nome_linea>
+		<Codice_linea_interno>SEVA</Codice_linea_interno>
+		<Descrizione_linea>LINEA FITTIZIA per SERVIZI VARI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>SEVA</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>DE</Nome_linea>
+		<Codice_linea_interno>5256</Codice_linea_interno>
+		<Descrizione_linea>COLLEGAMENTI DA E PER IL CIMITERO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>DE</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>4</Nome_linea>
+		<Codice_linea_interno>1013</Codice_linea_interno>
+		<Descrizione_linea>4</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>DL</Nome_linea>
+		<Codice_linea_interno>5130</Codice_linea_interno>
+		<Descrizione_linea>DL</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>3 CV</Nome_linea>
+		<Codice_linea_interno>5156</Codice_linea_interno>
+		<Descrizione_linea>3 CV</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>M</Nome_linea>
+		<Codice_linea_interno>5228</Codice_linea_interno>
+		<Descrizione_linea>M</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AT</Nome_linea>
+		<Codice_linea_interno>AT</Codice_linea_interno>
+		<Descrizione_linea>APPRONTAMENTO TRONCHETTO</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AT</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AF</Nome_linea>
+		<Codice_linea_interno>AF</Codice_linea_interno>
+		<Descrizione_linea>APPRONTAMENTO F.TE NOVE</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AF</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AM</Nome_linea>
+		<Codice_linea_interno>AM</Codice_linea_interno>
+		<Descrizione_linea>APPRONTAMENTO MECCANICI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AM</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>AP</Nome_linea>
+		<Codice_linea_interno>AP</Codice_linea_interno>
+		<Descrizione_linea>APPRONTAMENTO PILOTI</Descrizione_linea>
+		<Nome_modalita_di_trasporto>NAVALE</Nome_modalita_di_trasporto>
+		<Descrizione_modalita_di_trasporto>NAVALE</Descrizione_modalita_di_trasporto>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+		<Codice_libero>AP</Codice_libero>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>82</Nome_linea>
+		<Codice_linea_interno>1021</Codice_linea_interno>
+		<Descrizione_linea>82</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+	<record>
+		<Codice_settore>UN</Codice_settore>
+		<Nome_linea>PONT</Nome_linea>
+		<Codice_linea_interno>5258</Codice_linea_interno>
+		<Descrizione_linea>PONT</Descrizione_linea>
+		<Descrizione_settore>Urbano Navigazione</Descrizione_settore>
+	</record>
+</data-set>
